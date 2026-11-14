@@ -2,7 +2,7 @@
   "name": "module-maintenance-procurement-filament",
   "display_name": "Maintenance Procurement Filament",
   "description": "Filament 5 adapter for procurement.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "presentation",
   "provider": "Liberu\\Modules\\Maintenance\\Procurement\\Filament\\ProcurementFilamentServiceProvider",
   "requires": {
